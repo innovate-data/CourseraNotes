@@ -18,7 +18,9 @@
 # git add <filename> 
 
 # step 7: Commit the changes to local repo
-# git commit
+# git commit <file name> -m <commit message>
 
 # Step 8 : Push the changes to github repo
 # git push
+# this command will prompt for git hub username and pwd
+
