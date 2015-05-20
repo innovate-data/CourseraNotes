@@ -1,0 +1,24 @@
+# steps to use git bash to work with github repos
+
+# Step 1: clone ur github repo to create a local repo
+# git clone <url of repo>
+
+# Step 2 : change the working directory to the local repo directory
+# cd <foldername>
+
+# Step 3 : checkout the file u want to edit
+# git checkout <filename>
+
+# Step 4 : Edit the file in any text editor OR add new files to the local repo directory
+
+# Step 5 : check the status of the files in the local repo dir
+# git status
+
+# Step 6 : Add the changes u want to commit to the staging
+# git add <filename> 
+
+# step 7: Commit the changes to local repo
+# git commit
+
+# Step 8 : Push the changes to github repo
+# git push
